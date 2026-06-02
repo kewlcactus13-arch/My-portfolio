@@ -1,21 +1,29 @@
 body {
-    background-color: white;
+    background: linear-gradient(to bottom, white, orange);
 }
 
 h1 {
     color: black;
     text-align: center;
-    font-family: arial;
+    font-family: sans-serif;
 }
 
 p{
-    font-family: arial;
+    font-family: sans-serif;
     font-size: 20px;
     text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+hr.solid {
+    border-top: 5px solid black;
+    margin-left: 150px;
+    margin-right: 150px;
 }
