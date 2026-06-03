@@ -23,6 +23,7 @@ img {
 }
 
 hr.solid {
+    border: none;
     border-top: 5px solid black;
     margin-left: 150px;
     margin-right: 150px;
