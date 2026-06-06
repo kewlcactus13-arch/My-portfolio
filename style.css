@@ -28,3 +28,11 @@ hr.solid {
     margin-left: 150px;
     margin-right: 150px;
 }
+
+a {
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    color: white;
+}
